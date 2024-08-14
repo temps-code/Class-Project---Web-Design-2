@@ -55,7 +55,7 @@ Estamos disponibles en las siguientes plataformas:
 
 Estamos comprometidos en desarrollar un software que realmente responda a las necesidades del sector. Por favor, ayúdanos a mejorar respondiendo a nuestra breve encuesta:
 <div align="center">
-[![Formulario](https://img.shields.io/badge/Formulario-Completar-brightgreen?style=for-the-badge&logo=google&logoColor=white)](https://forms.gle/V6DeFqCdXVpgcrPy9)
-</div>
 
----
+[![Formulario](https://img.shields.io/badge/Formulario-Completar-brightgreen?style=for-the-badge&logo=google&logoColor=white)](https://forms.gle/V6DeFqCdXVpgcrPy9)
+
+</div>
