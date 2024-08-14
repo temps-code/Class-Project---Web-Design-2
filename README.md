@@ -32,7 +32,7 @@ Estamos comprometidos en desarrollar un software que realmente responda a las ne
 [Completar Encuesta](https://forms.gle/V6DeFqCdXVpgcrPy9)
 
 ---
-
+<div align="center">
 **D² Innovation** - [Sitio Web](https://sitio-web.com) | [Contacto](mailto:contacto@d2innovation.com)
-
+</div>
 ---
