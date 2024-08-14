@@ -6,7 +6,7 @@
 
 **Transformamos Ideas en Soluciones de Software**
 
-<div align="center">
+</div>
 
 ---
 
