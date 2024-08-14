@@ -34,5 +34,6 @@ Estamos comprometidos en desarrollar un software que realmente responda a las ne
 ---
 <div align="center">
 **D² Innovation** - [Sitio Web](https://sitio-web.com) | [Contacto](mailto:contacto@d2innovation.com)
-</div>
+
 ---
+</div>
