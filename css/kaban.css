@@ -1,0 +1,39 @@
+#kanban {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0px; /* Espaciado entre columnas, ajusta según tu preferencia */
+}
+/* Animación de aparición */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: scale(0.95);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.fade-in {
+    animation: fadeIn 0.4s ease-in-out;
+}
+
+/* Animación de eliminación */
+@keyframes fadeOut {
+    from {
+        opacity: 1;
+        transform: scale(1);
+    }
+    to {
+        opacity: 0;
+        transform: scale(0.95);
+    }
+}
+
+.fade-out {
+    animation: fadeOut 0.4s ease-in-out;
+    opacity: 0;
+    transform: scale(0.95);
+    pointer-events: none;
+}
